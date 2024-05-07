@@ -13,7 +13,7 @@ module.exports = ({ env }) => ({
         // ... any custom nodemailer options
       },
       settings: {
-        defaultFrom: "misage87@seznam.cz",
+        defaultFrom: "misage87@gmail.com",
         defaultReplyTo: "tomasmatusek@seznam.cz",
       },
     },
